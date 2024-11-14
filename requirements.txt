@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+transformers
+typer[all]
+Pillow
+tqdm
+colpali_engine
+huggingface-hub
+python-multipart
+flask
